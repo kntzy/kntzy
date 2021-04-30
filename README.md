@@ -10,9 +10,7 @@ KNTZY
 
 
 
-Meu nome é [KN](https://github.com/kntzy). Sou um programador brasileiro, ainda estudante. Faço
-projetos e projetos, variando de linguagens, sou geralmente intermediário
-ou iniciante nelas, ainda não tem alguma que eu seja especialista. Olhe
+Meu nome é [KN](https://github.com/kntzy). Olhe
 [meus repositórios](https://github.com/kntzy?tab=repositories) caso queira ver alguns dos meus [projetos](https://github.com/kntzy?tab=projects).
 
 ## Algumas redes sociais minhas
