@@ -6,7 +6,7 @@ KNTZY
 ======================
 
 
-:star: Programo Python, JavaScript, HTML, C#, CSS, & MySQL. Discord Bio -->
+:star: Programo Python, JavaScript, HTML, CSS, & MySQL. Discord Bio -->
 
 
 
