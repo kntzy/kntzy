@@ -6,8 +6,6 @@ KNTZY
 ======================
 
 
-:star: Programo Python, JavaScript, HTML, CSS, & MySQL. Discord Bio -->
-
 
 
 Meu nome é [KN](https://github.com/kntzy). Olhe
