@@ -9,7 +9,7 @@ KNTZY
 
 
 Meu nome é [KN](https://github.com/kntzy). Olhe
-[meus repositórios](https://github.com/kntzy?tab=repositories) caso queira ver alguns dos meus [projetos](https://github.com/kntzy?tab=projects).
+[meus repositórios](https://github.com/kntzy?tab=repositories).
 
 ## Algumas redes sociais minhas
 
